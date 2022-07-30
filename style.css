@@ -1,0 +1,14 @@
+input[type=button]{
+    background-color: aqua;
+    width:75px;
+    text-align: center;
+}
+
+.wrap{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    height: 100vh;
+}
